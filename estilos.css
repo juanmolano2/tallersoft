@@ -17,3 +17,8 @@ h2 {
     display: block;
   }
 }
+@media (max-width: 400px) {
+  header {
+    padding: 0.5rem;
+  }
+}
